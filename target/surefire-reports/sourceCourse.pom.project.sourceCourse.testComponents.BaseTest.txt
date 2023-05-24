@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sourceCourse.pom.project.sourceCourse.testComponents.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.363 s - in sourceCourse.pom.project.sourceCourse.testComponents.BaseTest
